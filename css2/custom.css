@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  h1 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  .my-class {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
